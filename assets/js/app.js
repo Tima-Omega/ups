@@ -2,7 +2,7 @@ const swiper = new Swiper('.swiper', {
 	slidesPerView: 'auto',
 	centeredSlides: true,
 	spaceBetween: 20,
-	initialSlide: 1,
+	initialSlide: 4,
 	breakpoints: {
 		576: {
 			spaceBetween: 30
